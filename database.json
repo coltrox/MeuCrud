@@ -1,0 +1,47 @@
+{
+  "people": [
+    {
+      "firstName": "Lucas",
+      "lastName": "Oliveira",
+      "email": "lucas.oli@provedor.com",
+      "phone": "11977665544",
+      "id": "3bc4"
+    },
+    {
+      "firstName": "Mariana",
+      "lastName": "Souza",
+      "email": "mari.souza@email.com",
+      "phone": "21955443322",
+      "id": "4de5"
+    },
+    {
+      "firstName": "Ricardo",
+      "lastName": "Santos",
+      "email": "rick.santos@webmail.com",
+      "phone": "19911223344",
+      "id": "5fg6"
+    },
+    {
+      "firstName": "Beatriz",
+      "lastName": "Lima",
+      "email": "bia.lima@email.com",
+      "phone": "31944556677",
+      "id": "6hi7"
+    },
+    {
+      "firstName": "Felipe",
+      "lastName": "Almeida",
+      "email": "felipe.adm@email.com",
+      "phone": "19922334455",
+      "id": "7jk8"
+    },
+    {
+      "id": "ad42",
+      "firstName": "Pedro Henrique",
+      "lastName": "Soares da Costa Coltro",
+      "email": "pedro.costacoltro@gmail.com",
+      "phone": "19996640912"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
